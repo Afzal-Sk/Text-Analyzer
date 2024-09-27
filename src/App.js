@@ -46,7 +46,6 @@ function App() {
     }
   }
 
-
   const handleTheme = (newTheme) => {
     setTheme(newTheme)
   }
