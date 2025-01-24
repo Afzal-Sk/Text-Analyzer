@@ -45,6 +45,7 @@ function App() {
       document.title = 'TextUtils - Light Mode';
     }
   }
+  
 
   const handleTheme = (newTheme) => {
     setTheme(newTheme)
